@@ -72,7 +72,7 @@ ul, ol {
 }
 
 .nav__items:hover{
-    background-color: #FFFFFF;
+    background-color: #7DFF33;
     color: var(--color-primary);
 }
 
