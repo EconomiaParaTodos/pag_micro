@@ -2,7 +2,7 @@
 
 :root {
     --background: linear-gradient(135deg, #667eea7e 0%, #764ba298 100%);
-    --color-primary: #667eea;
+    --color-primary: #7DFF33;
     --color-secondary: #764ba2;
     --boton-padding: 20px 40px;
 }
@@ -72,7 +72,7 @@ ul, ol {
 }
 
 .nav__items:hover{
-    background-color: #7DFF33;
+    background-color: #FFFFFF;
     color: var(--color-primary);
 }
 
